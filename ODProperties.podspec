@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'ODProperties'
-  s.version      = '1.0.0'
+  s.version      = '1.0.2'
   s.summary      = 'Utils for working with ObjC associated properties'
   s.homepage     = 'https://github.com/Rogaven/ODProperties'
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
