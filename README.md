@@ -7,7 +7,7 @@
 ## Usage
 
 ```objective-c
-#import <ODProperties.h>
+#import <ODAssociatedProperty.h>
 ```
 
 ## Installation
